@@ -1,5 +1,9 @@
 # CustomNewTab
 Could be used as an extension for new tabs.
+
+This is done by downloading these files and unloading the pack in extensions settings. Make sure its the CustomNewTab directory.
+
+
 Anthony Nguyen 
 Started with the background and then worked on the clock.
 After completing clock, the quote was next and the timer was last.
