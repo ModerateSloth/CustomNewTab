@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "author": "Anthony Nguyen",
+    "name": "New Tab Extension",
+    "version": "1.0",
+    "description": "This extension will replace the default new tab with a customized new tab.",
+    "icons": {
+      "128": "assets/galaxyicon.png"
+    },
+    "chrome_url_overrides": {
+      "newtab": "newtab.html"
+    },
+	"permissions": ["storage"]
+}
